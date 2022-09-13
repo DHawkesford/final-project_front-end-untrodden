@@ -8,6 +8,9 @@
 <h3 align="center">
 	View a video presentation of our app and development journey <a href='https://www.youtube.com/watch?v=SKA7cI1Aa2w'>here.</a>
 </h3>
+<h3 align="center">
+	Link to back-end repo <a href='https://github.com/DHawkesford/final-project_back-end-untrodden'>here.</a>
+</h3>
 
 
 ## Contents
